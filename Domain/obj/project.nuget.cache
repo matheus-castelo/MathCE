@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tihV0y7K/Rs=",
+  "success": true,
+  "projectFilePath": "/home/matheuscastelo/RiderProjects/MathCE/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/matheuscastelo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
